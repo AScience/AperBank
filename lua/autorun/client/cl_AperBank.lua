@@ -1,0 +1,6 @@
+include("config.lua")
+include("sh_main.lua")
+include("cl_main.lua")
+include("cl_bank.lua")
+include("cl_upgrade.lua")
+include("cl_menu.lua")

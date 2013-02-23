@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mazur/chippindiff"
+	"$bumpmap" "models/mazur/flatnorm"
+	"$surfaceprop" "metal"
+    	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"%keywords" "mazur"
+}

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"AperBank"
+	"version"	"B1.0"
+	"up_date"	"06/2013"
+	"author_name"	"Science"
+	"author_email"	""
+	"info"		"DarkRP Addon"
+}

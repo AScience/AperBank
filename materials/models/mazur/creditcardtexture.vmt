@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mazur/creditcardtexture"
+	"$bumpmap" "models/mazur/creditcardnormal"
+	"$surfaceprop" "plastic"
+    	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"%keywords" "mazur"
+}

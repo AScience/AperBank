@@ -1,0 +1,15 @@
+AddCSLuaFile("config.lua")
+AddCSLuaFile("sh_main.lua")
+AddCSLuaFile("maps.lua")
+AddCSLuaFile("sv_db.lua")
+AddCSLuaFile("sv_bank.lua")
+AddCSLuaFile("sv_main.lua")
+AddCSLuaFile("autorun/client/cl_AperBank.lua")
+
+
+include("config.lua")
+include("sh_main.lua")
+include("maps.lua")
+include("sv_db.lua")
+include("sv_bank.lua")
+include("sv_main.lua")

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mazur/atmlogo"
+	"$bumpmap" "models/mazur/flatnorm"
+	"$surfaceprop" "metal"
+    	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"%keywords" "mazur"
+	$selfillum 1
+}
